@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\Estructura de datos\AgendamientosTurnos\bin\Debug\net9.0\AgendamientosTurnos.exe
+C:\Users\Dell\Documents\Estructura de datos\AgendamientosTurnos\bin\Debug\net9.0\AgendamientosTurnos.deps.json
+C:\Users\Dell\Documents\Estructura de datos\AgendamientosTurnos\bin\Debug\net9.0\AgendamientosTurnos.runtimeconfig.json
+C:\Users\Dell\Documents\Estructura de datos\AgendamientosTurnos\bin\Debug\net9.0\AgendamientosTurnos.dll
+C:\Users\Dell\Documents\Estructura de datos\AgendamientosTurnos\bin\Debug\net9.0\AgendamientosTurnos.pdb
+C:\Users\Dell\Documents\Estructura de datos\AgendamientosTurnos\obj\Debug\net9.0\AgendamientosTurnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\Estructura de datos\AgendamientosTurnos\obj\Debug\net9.0\AgendamientosTurnos.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\Estructura de datos\AgendamientosTurnos\obj\Debug\net9.0\AgendamientosTurnos.AssemblyInfo.cs
+C:\Users\Dell\Documents\Estructura de datos\AgendamientosTurnos\obj\Debug\net9.0\AgendamientosTurnos.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Estructura de datos\AgendamientosTurnos\obj\Debug\net9.0\AgendamientosTurnos.dll
+C:\Users\Dell\Documents\Estructura de datos\AgendamientosTurnos\obj\Debug\net9.0\refint\AgendamientosTurnos.dll
+C:\Users\Dell\Documents\Estructura de datos\AgendamientosTurnos\obj\Debug\net9.0\AgendamientosTurnos.pdb
+C:\Users\Dell\Documents\Estructura de datos\AgendamientosTurnos\obj\Debug\net9.0\AgendamientosTurnos.genruntimeconfig.cache
+C:\Users\Dell\Documents\Estructura de datos\AgendamientosTurnos\obj\Debug\net9.0\ref\AgendamientosTurnos.dll
